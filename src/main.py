@@ -9,4 +9,5 @@ emp2 = Empleado(
 
 print(emp.mostrar_datos())
 print(emp2.mostrar_datos())
+print(emp2.mostrar_datos())
 
